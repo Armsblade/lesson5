@@ -1,0 +1,92 @@
+section {
+  margin: 0 auto;
+  width: 1440px;
+  background-color: #d5fafc;
+  font-family: "Manrope";
+}
+
+.left {
+  vertical-align: middle;
+  width: 705px;
+  height: 628px;
+  background-color: #2ec5ce;
+  display: inline-block;
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  padding-top: 226px;
+  padding-left: 165px;
+}
+
+.right {
+  vertical-align: middle;
+  width: 731px;
+  display: inline-block;
+}
+
+.white-box {
+  width: 570px;
+  height: 564px;
+  background-color: #ffffff;
+  margin-left: -2px;
+}
+
+.vector-box1 {
+  margin-left: 450px;
+  padding-top: 40px;
+}
+
+.foto {
+  display: inline-block;
+  padding-top: 24px;
+  padding-left: 40px;
+  vertical-align: middle;
+}
+
+.prof-name {
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 16px;
+  padding-top: 24px;
+}
+
+.p-left {
+  width: 400;
+  font-size: 18px;
+  line-height: 32px;
+  padding-left: 165px;
+  padding-right: 95px;
+}
+
+.p2 {
+  width: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.p-rhite {
+  width: 400;
+  font-size: 18px;
+  line-height: 32px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.logo-box {
+  display: inline-block;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.vector-box {
+  display: inline-block;
+  margin-left: 248px;
+}
+
+.vector-box2 {
+  display: inline-block;
+  margin-left: 40px;
+}
